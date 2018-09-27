@@ -1,0 +1,13 @@
+string16 description "Large Wall Seaport model"
+vector3 First_Boat_Pos (-0.491011, -99.8120956, 0)
+float cityHallDiasHeight 0
+float modelEffectRange 780
+floats modelLODDistances
+	200
+	1400
+	1500
+end
+vector3 modelPaintDecalParams (75, 0, 1)
+bool modelRelevel true
+bool modelUnderwaterNever true
+float terraformClearFloraExtraRadiusCity 48

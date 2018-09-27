@@ -1,0 +1,12 @@
+string16 description "Large Wall model"
+float cityHallDiasHeight 0
+float modelEffectRange 780
+floats modelLODDistances
+	200
+	1400
+	1500
+end
+vector3 modelPaintDecalParams (75, 0, 1)
+bool modelRelevel true
+bool modelUnderwaterNever true
+float terraformClearFloraExtraRadiusCity 48

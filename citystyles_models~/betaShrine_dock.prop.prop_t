@@ -1,0 +1,8 @@
+key parent 0x86C6B38A.prop
+string16 description "shrine small docks"
+bboxs modelBoundingBox
+	(-46.9920006, -26.8889999, -13.8310003) (45.3380013, 20.2749996, 7.1059999)
+end
+key modelMeshLOD0 betaShrine_dock.rw4
+key modelMeshLOD1 betaShrine_dock.rw4
+vector3 modelOffset (0, 3.2, 3.2)

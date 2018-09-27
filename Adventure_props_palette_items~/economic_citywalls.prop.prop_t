@@ -1,0 +1,19 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	0
+end
+int32s palettePagePartItemRows
+	3
+	10
+	17
+	27
+end
+keys palettePagePartItems
+	citystyles~!Diplo
+	citystyles~!diplo2
+	citystyles~!diplo3
+	citystyles~!betaDiplo
+end
+key palettePagePartParentPage economic_citywalls

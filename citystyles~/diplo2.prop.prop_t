@@ -1,0 +1,27 @@
+key parent citystyles~!TemplateCityStyle.prop
+string16 description "Economic Style"
+key CoastalModelLarge 0xBFC61837
+uint32 CoastalModelLargeIntroEffectID 0x26607262
+uint32 CoastalModelLargeRebuildEffectID 0x8383c9a7
+uint32 CoastalModelLargeRemoveEffectID 0xd06413ee
+key CoastalModelSmall 0xF13189CF
+uint32 CoastalModelSmallIntroEffectID 0x37e3ad5a
+uint32 CoastalModelSmallRebuildEffectID 0x993584b3
+uint32 CoastalModelSmallRemoveEffectID 0xd8bfb936
+key DockModelLarge 0xBE511971
+key DockModelSmall 0xFECA61B9
+key InlandModelLarge 0x9EFE3EEA
+uint32 InlandModelLargeIntroEffectID 0xfb032f25
+uint32 InlandModelLargeRebuildEffectID 0x2fefcb3c
+uint32 InlandModelLargeRemoveEffectID 0xabd6c761
+key InlandModelSmall 0x8B794002
+uint32 InlandModelSmallIntroEffectID 0x0e4070dd
+uint32 InlandModelSmallRebuildEffectID 0x3a231d78
+uint32 InlandModelSmallRemoveEffectID 0x1ad71ee9
+key TurretModel citystyles_models~!0xE117D223
+key TurretModelDestroyed citystyles_models~!0x9C7AC9FF
+key TurretThumbnail ci_thumbs~!Economic_turret.png
+texts blockName
+	"Economic Style 2"
+end
+key modelMeshLOD0 0x6DFDF825

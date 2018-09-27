@@ -1,0 +1,8 @@
+string16 description "City Walls Category"
+vector4 palettePageBorder (0.05, 0.13, 0.05, 0.09)
+float palettePageItemAspectRatio 1
+float palettePageItemPercentageWidth 0.333
+int32 palettePageNumColumns 3
+int32 palettePageNumRows 5
+key palettePageParentCategory planners_palette_category~!cip_category_citywalls
+bool palettePageUseRelativeLayout true

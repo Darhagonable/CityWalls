@@ -1,0 +1,19 @@
+key parent citystyles~!TemplateCityStyle.prop
+string16 description "201ruins Style"
+key CoastalModelLarge 201ruins
+uint32 CoastalModelLargeIntroEffectID 0x36b57f7b
+key CoastalModelSmall 201ruins
+uint32 CoastalModelSmallIntroEffectID 0x36b57f7b
+key DockModelLarge 0x706C1A9B
+key DockModelSmall 0x706C1A9B
+key InlandModelLarge 201ruins
+uint32 InlandModelLargeIntroEffectID 0x36b57f7b
+key InlandModelSmall 201ruins
+uint32 InlandModelSmallIntroEffectID 0x36b57f7b
+key TurretModel citystyles_models~!0xBD05CCB9
+key TurretModelDestroyed citystyles_models~!0xBD05CCB9
+key TurretThumbnail ci_thumbs~!Space_Turret_Destroyed.png
+texts blockName
+	"Ruins Style"
+end
+key modelMeshLOD0 0xEBEFD548

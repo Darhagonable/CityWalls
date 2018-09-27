@@ -1,0 +1,121 @@
+key parent 0x7F2FE628.prop
+string16 description "beta castle citywalls small"
+bools BuildingLink0
+	false
+	false
+	true
+	true
+	true
+	true
+end
+bools BuildingLink1
+	false
+	false
+	false
+	true
+	false
+	false
+end
+bools BuildingLink2
+	true
+	false
+	false
+	false
+	false
+	true
+end
+bools BuildingLink3
+	true
+	true
+	false
+	false
+	true
+	false
+end
+bools BuildingLink4
+	true
+	false
+	false
+	true
+	false
+	true
+end
+bools BuildingLink5
+	true
+	false
+	true
+	false
+	true
+	false
+end
+vector3s Buildings
+	(10, 25, 0)
+	(-26, -10, 0)
+	(25, 9.25, 0)
+	(21, -21, 0)
+	(-13, -27, 0)
+end
+vector3 City_Hall (-3, -1.5, 0)
+vector3s Decorations
+	(-23.2210007, 31.7180004, 0)
+	(15.1809998, 35.9970016, 0)
+	(-14.2749996, -37.0480003, 0)
+	(8.5159998, -39.0489998, 0)
+	(-33.5629997, -8.8789997, 0)
+	(28.8700008, 14.4809999, 0)
+	(-8.5450001, 34.4370003, 0)
+	(-28.1569996, 1.044, 0)
+	(7.0679998, 17.4230003, 0)
+	(33.8779984, -14.3920002, 0)
+	(12.8140001, -6.1040001, 0)
+	(14.007, 3.711, 0)
+	(-25.7940006, 11.0839996, 0)
+	(-18.4650002, 17.9519997, 0)
+	(-10.5109997, 20.9360008, 0)
+	(10.2019997, 31.0240002, 0)
+	(-21.7619991, -24.6070004, 0)
+	(-34.2879982, 14.9060001, 0)
+	(25.4549999, -32.1889992, 0)
+	(7.8889999, -28.8449993, 1.793)
+end
+vector3 Freight_Gate (-28.7999992, 28.7999992, 0)
+vector3 Harvest_Gate (28.7999992, 28.7999992, 0)
+vector3 Main_Gate (0, 40, 0)
+vector3s Plazas
+	(-9, 21.5, -1.471)
+end
+vector3 Sea_Gate (0, -40, 0)
+vector3s Side_Gates
+	(40, 0, 0)
+	(-40, 0, 0)
+end
+vector3s Turrets
+	(0, 39.5, 11)
+	(28.7999992, 28.7999992, 7.8800001)
+	(28.7999992, -28.7999992, 7.8800001)
+	(0, -40, 7.5)
+	(-28.7999992, -28.7999992, 7.8800001)
+	(-28.7999992, 28.7999992, 7.8800001)
+end
+float cityHallDiasHeight 0
+vector3 modelDocksOffset (0, -52.019001, -7.0450001)
+keys modelEffect
+	city_walls_military_small_beta
+end
+float modelEffectRange 780
+floats modelLODDistances
+	200
+	1400
+	1500
+end
+vector3 modelLevelParams (140, 0, 1)
+key modelLevelTexture 0xB2A00ACD
+key modelMeshLOD0 0xF1491893
+key modelMeshLOD1 0xF1491893
+vector3 modelOffset (0, 0, 1)
+vector3 modelPaintDecalParams (75, 0, 1)
+key modelPaintDecalTexture 0x811F22D7
+vector3 modelStampParams (220, 0, -0.03)
+key modelStampTexture 0x6800F498
+float radiusInner 37.5
+float radiusOuter 48.5

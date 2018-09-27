@@ -1,0 +1,10 @@
+key parent CivicObjects!CivicObjectTemplate.prop
+bboxs modelBoundingBox
+	(-1.5, -2, -7) (1.5, 2, 5)
+end
+float modelBoundingRadius 7
+key modelMeshLOD0 0xA6146FF3.rw4
+key modelMeshLOD1 0xA6146FF3.rw4
+key modelMeshLOD2 0xA6146FF3.rw4
+vector3 modelRotation (0, 0, 180)
+vector3 turret_muzzle_position (0.233, 5.7399998, 2.1440001)

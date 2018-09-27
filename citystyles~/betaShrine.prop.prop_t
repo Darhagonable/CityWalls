@@ -1,0 +1,27 @@
+key parent citystyles~!TemplateCityStyle.prop
+string16 description "Beta Cultural Style"
+key CoastalModelLarge betaShrine2
+uint32 CoastalModelLargeIntroEffectID 0x7ce589fe
+uint32 CoastalModelLargeRebuildEffectID 0x57eee7c9
+uint32 CoastalModelLargeRemoveEffectID 0xf0e2a37a
+key CoastalModelSmall betaShrine
+uint32 CoastalModelSmallIntroEffectID 0x36d97896
+uint32 CoastalModelSmallRebuildEffectID 0xfe5831e1
+uint32 CoastalModelSmallRemoveEffectID 0x5b5ef482
+key DockModelLarge betaShrine_dock
+key DockModelSmall betaShrine_dock
+key InlandModelLarge betaShrine2
+uint32 InlandModelLargeIntroEffectID 0xb077eab1
+uint32 InlandModelLargeRebuildEffectID 0x27cb99ae
+uint32 InlandModelLargeRemoveEffectID 0xe93f4b4d
+key InlandModelSmall betaShrine
+uint32 InlandModelSmallIntroEffectID 0x382c5b09
+uint32 InlandModelSmallRebuildEffectID 0xb9507ea6
+uint32 InlandModelSmallRemoveEffectID 0xaceb5535
+key TurretModel citystyles_models~!Beta_turret
+key TurretModelDestroyed citystyles_models~!Beta_Turret_Destroyed
+key TurretThumbnail ci_thumbs~!Beta_turret.png
+texts blockName
+	"Beta Religious Style"
+end
+key modelMeshLOD0 betaShrine_walls

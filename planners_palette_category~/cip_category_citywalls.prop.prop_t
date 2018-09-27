@@ -1,0 +1,16 @@
+key parent Adventure_brushes~!TemplatepalettePlannerCategory.prop
+keys paletteCategoryIconList
+	editors_planner~!citywalls-norm.png
+	editors_planner~!citywalls-off.png
+	editors_planner~!citywalls-hl.png
+	editors_planner~!citywalls-norm.png
+	editors_planner~!citywalls-on-norm.png
+	editors_planner~!citywalls-off.png
+	editors_planner~!citywalls-on-hl.png
+	editors_planner~!citywalls-on-act.png
+	editors_planner~!citywalls-hitmask.png
+end
+texts paletteCategoryName
+	"City Walls"
+end
+uint32 paletteCategorySequenceNumber 800

@@ -1,0 +1,27 @@
+key parent citystyles~!TemplateCityStyle.prop
+string16 description "Military Style"
+key CoastalModelLarge 0x04792597
+uint32 CoastalModelLargeIntroEffectID 0xec256ecf
+uint32 CoastalModelLargeRebuildEffectID 0x9183a206
+uint32 CoastalModelLargeRemoveEffectID 0x1f9e7c6b
+key CoastalModelSmall 0x6127182F
+uint32 CoastalModelSmallIntroEffectID 0x8eb8f92a
+uint32 CoastalModelSmallRebuildEffectID 0x40565ae5
+uint32 CoastalModelSmallRemoveEffectID 0x301f212e
+key DockModelLarge 0x5732E7D1
+key DockModelSmall 0xCB2A5019
+key InlandModelLarge 0x34831D0A
+uint32 InlandModelLargeIntroEffectID 0x1a5a5695
+uint32 InlandModelLargeRebuildEffectID 0x9d0ff4a2
+uint32 InlandModelLargeRemoveEffectID 0xfd365319
+key InlandModelSmall 0x351026A2
+uint32 InlandModelSmallIntroEffectID 0xbb1292cd
+uint32 InlandModelSmallRebuildEffectID 0xbeb7377a
+uint32 InlandModelSmallRemoveEffectID 0xd3603ca1
+key TurretModel citystyles_models~!0xA7839343
+key TurretModelDestroyed citystyles_models~!0x9BFCD95F
+key TurretThumbnail ci_thumbs~!MIlitary_turret.png
+texts blockName
+	"Military Style 2"
+end
+key modelMeshLOD0 0x25A92685.rw4

@@ -1,0 +1,52 @@
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+	4
+	4
+	4
+end
+keys palettePagePartItems
+	citystyles~!Castle
+	citystyles~!castle2
+	citystyles~!castle3
+	citystyles~!shrine
+	citystyles~!shrine2
+	citystyles~!shrine3
+	citystyles~!Diplo
+	citystyles~!diplo2
+	citystyles~!diplo3
+	citystyles~!spacecolony
+	citystyles~!201ruins
+	citystyles~!grob
+	citystyles~!betaCastle
+	citystyles~!betaShrine
+	citystyles~!betaDiplo
+end
+key palettePagePartParentPage colony_citywalls

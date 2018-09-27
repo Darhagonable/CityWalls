@@ -1,0 +1,27 @@
+key parent citystyles~!TemplateCityStyle.prop
+string16 description "Cultural Style"
+key CoastalModelLarge 0xED0063A9
+uint32 CoastalModelLargeIntroEffectID 0x7ce589fe
+uint32 CoastalModelLargeRebuildEffectID 0x57eee7c9
+uint32 CoastalModelLargeRemoveEffectID 0xf0e2a37a
+key CoastalModelSmall 0x4E26C031
+uint32 CoastalModelSmallIntroEffectID 0x36d97896
+uint32 CoastalModelSmallRebuildEffectID 0xfe5831e1
+uint32 CoastalModelSmallRemoveEffectID 0x5b5ef482
+key DockModelLarge 0xA81EE8E8
+key DockModelSmall 0xDE17DCE0
+key InlandModelLarge 0x36386464
+uint32 InlandModelLargeIntroEffectID 0xb077eab1
+uint32 InlandModelLargeRebuildEffectID 0x27cb99ae
+uint32 InlandModelLargeRemoveEffectID 0xe93f4b4d
+key InlandModelSmall 0x91432C6C
+uint32 InlandModelSmallIntroEffectID 0x382c5b09
+uint32 InlandModelSmallRebuildEffectID 0xb9507ea6
+uint32 InlandModelSmallRemoveEffectID 0xaceb5535
+key TurretModel citystyles_models~!0x0207441C
+key TurretModelDestroyed citystyles_models~!0x68EFC2D0
+key TurretThumbnail ci_thumbs~!Cultural_turret.png
+texts blockName
+	"Religious Style 1"
+end
+key modelMeshLOD0 0x91432C6C

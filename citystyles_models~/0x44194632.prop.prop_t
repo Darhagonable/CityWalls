@@ -1,0 +1,12 @@
+string16 description "Small Wall model"
+float cityHallDiasHeight 0
+float modelEffectRange 780
+floats modelLODDistances
+	200
+	1400
+	2100
+end
+vector3 modelPaintDecalParams (50, 0, 1)
+bool modelRelevel true
+bool modelUnderwaterNever true
+float terraformClearFloraExtraRadiusCity 48

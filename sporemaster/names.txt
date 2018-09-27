@@ -1,0 +1,96 @@
+animations~	0x0
+auto_citystyles~_shrine2
+city_walls_econ_large_01
+auto_citystyles~_shrine3
+citystyles_models~	0x40828100
+city_walls_econ_large_02
+city_walls_econ_large_03
+colony_planner_palette~	0x406b6b68
+auto_planners_palette_category~_cip_category_citywalls
+auto_citystyles~_castle3
+citywalls-norm
+auto_citystyles~_castle2
+ep1_effects_3~	0x408a4302
+betaShrine2
+auto_citystyles~_betaDiplo
+economiccity_planner_palette~	0x406b6b67
+culturalcity_planner_palette~	0x406b6b66
+military_citywalls
+militarycity_planner_palette~	0x406b6b65
+Adventure_props_palette_items~	0x406b6d64
+Adventure_props_palette_pages~	0x406b6c64
+planners_palette_category~	0x406b6e64
+betaCastle
+betaShrine_dock
+Beta_turret
+Space_Turret_Destroyed
+city_walls_econ_small_beta
+betaShrine_walls
+sg_grob_walls
+spacecolony
+betaDiplo_walls
+TemplateCityStyle
+MIlitary_turret
+auto_citystyles~_Diplo
+city_walls_religious_large_03
+city_walls_religious_large_02
+economic_citywalls
+city_walls_religious_large_01
+citystyles~	0x2e4b4cc
+shrine
+betaDiplo
+castle3
+castle2
+Palette_Citydecoration_Parent~	0xa216cda7
+auto_citystyles~_diplo2
+auto_citystyles~_diplo3
+citywalls-on-hl
+Diplo
+citywalls
+sporemaster
+citywalls-hitmask
+names
+city_walls_religious_small_beta
+Economic_turret
+diplo3
+city_walls_religious_large_beta
+diplo2
+Cultural_turret
+gameEffects_2~	0x40450201
+gameEffects_1~	0x40450200
+CivicObjectTemplate
+auto_citystyles~_spacecolony
+201ruins
+Grob_turret
+auto_citystyles~_betaShrine
+Castle
+betaCastle2
+templatepaletteplannercategory
+ci_thumbs~	0x65928944
+Space_turret
+city_walls_econ_large_beta
+citywalls-on-act
+cip_category_citywalls
+auto_citystyles~_Castle
+betaShrine
+city_walls_military_small_beta
+civicobjects
+Adventure_brushes~	0x406b0100
+shrine3
+sg_grob_walls_seaport
+shrine2
+cultural_citywalls
+citywalls-off
+auto_citystyles~_201ruins
+auto_citystyles~_shrine
+editors_planner~	0x355ba26
+citywalls-on-norm
+colony_citywalls
+citywalls-hl
+auto_citystyles~_betaCastle
+grob
+auto_citystyles~_grob
+Beta_Turret_Destroyed
+locale~	0x2fabf01
+city_walls_military_large_beta
+betaDiplo2

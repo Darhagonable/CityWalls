@@ -1,0 +1,19 @@
+key parent citystyles~!TemplateCityStyle.prop
+string16 description "Grob Style"
+key CoastalModelLarge sg_grob_walls_seaport
+uint32 CoastalModelLargeIntroEffectID 0x36b57f7b
+key CoastalModelSmall sg_grob_walls_seaport
+uint32 CoastalModelSmallIntroEffectID 0x36b57f7b
+key DockModelLarge 0xC18AE8D8
+key DockModelSmall 0xC18AE8D8
+key InlandModelLarge sg_grob_walls
+uint32 InlandModelLargeIntroEffectID 0x36b57f7b
+key InlandModelSmall sg_grob_walls
+uint32 InlandModelSmallIntroEffectID 0x36b57f7b
+key TurretModel citystyles_models~!0xA6146FF3
+key TurretModelDestroyed citystyles_models~!0xD86B9A6F
+key TurretThumbnail ci_thumbs~!Grob_turret.png
+texts blockName
+	"Grox Style"
+end
+key modelMeshLOD0 0x4B56D73D.rw4

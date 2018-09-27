@@ -1,0 +1,19 @@
+int32s palettePagePartItemColumns
+	0
+	0
+	0
+	0
+end
+int32s palettePagePartItemRows
+	3
+	10
+	17
+	27
+end
+keys palettePagePartItems
+	citystyles~!Castle
+	citystyles~!castle2
+	citystyles~!castle3
+	citystyles~!betaCastle
+end
+key palettePagePartParentPage military_citywalls

@@ -1,0 +1,19 @@
+key parent citystyles~!TemplateCityStyle.prop
+string16 description "Space Colony Style"
+key CoastalModelLarge 0x394C6036
+uint32 CoastalModelLargeIntroEffectID 0x36b57f7b
+key CoastalModelSmall 0x394C6036
+uint32 CoastalModelSmallIntroEffectID 0x36b57f7b
+key DockModelLarge 0x706C1A9B
+key DockModelSmall 0x706C1A9B
+key InlandModelLarge 0xBD3F5E6B
+uint32 InlandModelLargeIntroEffectID 0x36b57f7b
+key InlandModelSmall 0xBD3F5E6B
+uint32 InlandModelSmallIntroEffectID 0x36b57f7b
+key TurretModel citystyles_models~!0xDF52DD75
+key TurretModelDestroyed citystyles_models~!0xBD05CCB9
+key TurretThumbnail ci_thumbs~!Space_turret.png
+texts blockName
+	"Space Colony Style"
+end
+key modelMeshLOD0 0xBD3F5E6B
